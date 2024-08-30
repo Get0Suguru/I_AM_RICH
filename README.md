@@ -1,5 +1,5 @@
 
-```
+
 # I Am Rich Flutter App
 
 Welcome to my take on the classic "I Am Rich" app! This Flutter project is a simple, clean showcase of Flutter UI, theming, and asset management. The app displays a diamond image with a bold message, all wrapped in a modern Material Design look.
@@ -36,4 +36,3 @@ This project is a fun experiment with Flutter, inspired by the original "I Am Ri
 
 Built with ❤️ using Flutter & Dart.
 
-```
